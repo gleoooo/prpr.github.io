@@ -1,0 +1,27 @@
+h1 {
+    color: #8D8741;
+    
+    text-align: center
+    }
+    h2 {
+    color: #8D8741;
+    text-align: center
+    }
+    .container_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    }
+    .btn {
+    margin-right: 50%;
+    }
+    .center{
+    margin: 10px auto 20px;
+    display: block;
+    }
+    
+    .afimg{
+    width: 45%;
+    text-align: justify;
+    margin: 20px;
+    }
